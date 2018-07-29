@@ -22,7 +22,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: henryk
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: XakY41W4b21sYGa9bZRIs1jUHhcycM2GUrTgMyHOxckRspUIg7poLf6rOjP+TlcMoy+aIA65mYN0ui2m64+iREoYm46dHVlv1vEtZaTHk8uq/6H4zKbxdlgc4qdvmy6xplusmPEnex9VBxJBTB4VJSQwDhhM3BHUJ+R2GnH+nAzeKcVew+sduQSKT/TDFzPLVVifEAq9/9dquT3xlnEKuJFUyiFkOlFiLMRnnwpBsmjyyfp0gGtJMTURzXU1qgI0+/4aGjhKAlp0OJOjXkKZ5A6dB/LHoldA1wTumo+M6Dseo3TD29RjlOCIfhr8S1v2U+KxCR5EmN4SZVXlfZ0sSPlYkbfNkwFVlmLVrAORVQxXlT+5bQadeIJEs68IQmazu8s1pXVh5G6F7yuCNFTREMmzCvxmDWatuxxI5TGjfQL7K5la0gpUp8rAmGJy4a6Vc7Dbsbpp8Ld7i0Ov/eULHNageFcMPm0SUE69WFG+xX6nOaMlSu30aUIdfDqYQOEdISsVdkkPkCHCPLflYaUMZLR0kTgLz5m/AW6SK1NUiU1OtLVb0uLZLsH+EpOMiNqstkZh0r6b9IuJGLi6wM7LbLGDqpPnOEl0t22OWTdWx9+FW5Zt+Mswqd5xD8yRJ4B6unsmTs2vZvR0darHJ9TJWXYiHU5nt8BJktIRZkx3OGg
   on:
     tags: true
     repo: henryk/django-securebox

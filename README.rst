@@ -19,7 +19,7 @@ Django SecureBox
 Djange SecureBox implementation -- encrypts data for a Django User, but allows for transparent access within a Session
 
 
-* Free software: GNU General Public License v3
+* Free software: GNU Lesser General Public License v3
 * Documentation: https://django-securebox.readthedocs.io.
 
 

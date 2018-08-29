@@ -1,4 +1,5 @@
 import pickle
+from contextlib import suppress
 
 import nacl.encoding
 import nacl.hash

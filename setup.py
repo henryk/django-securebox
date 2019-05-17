@@ -11,7 +11,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = [ 'django>=1.11', 'pynacl==1.2.*', ]
+requirements = [ 'django>=1.11', 'pynacl==1.3.*', ]
 
 setup_requirements = ['pytest-runner', ]
 

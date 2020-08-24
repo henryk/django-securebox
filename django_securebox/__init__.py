@@ -4,6 +4,6 @@
 
 __author__ = """Henryk Plötz"""
 __email__ = 'henryk@ploetzli.ch'
-__version__ = '0.1.4'
+__version__ = '0.1.5'
 
 default_app_config = 'django_securebox.apps.DjangoSecureBoxConfig'
